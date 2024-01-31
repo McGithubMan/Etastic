@@ -1,0 +1,2 @@
+# Etastic
+A cool site!
